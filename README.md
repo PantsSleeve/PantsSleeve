@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @PantsSleeve
-- 👀 I’m interested in crypto
-- 🌱 I’m currently learning everything crypto
-- 💞️ I’m looking to collaborate on pretty much anything crypto
-- 📫 How to reach me PantsSleeve on twitter or at stillaliveinthemetaverse a gmail.com
+- 👀 I've been a developer for 15+ years. Frontend, backend mobile, games, enterprise systems, cloud. I've been doing a bit of all. Right now I'm trying to learn more about development in crypto and I'm focusing on the Cardano eco-system. 
+- 📫 I'm PantsSleeve on twitter, say hi if you want to collaborate on anything. 
 
 <!---
 PantsSleeve/PantsSleeve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
